@@ -17,6 +17,6 @@ Supported Geometries are:
 
 Samples (more can be found in `data` folder):
 
-![Sword Lake](data/sample.png)
-![Fog](/data/fog.png)
-![Cows](/data/macho-cows.png)
+![Sword Lake](https://github.com/LanJian/Raytracer/raw/master/data/sample.png)
+![Fog](https://github.com/LanJian/Raytracer/raw/master/data/fog.png)
+![Cows](https://github.com/LanJian/Raytracer/raw/master/data/macho-cows.png)

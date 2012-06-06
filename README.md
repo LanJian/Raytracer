@@ -17,6 +17,6 @@ Supported Geometries are:
 
 Samples (more can be found in `data` folder):
 
-![Sword Lake](/data/sample.png)
+![Sword Lake](data/sample.png)
 ![Fog](/data/fog.png)
 ![Cows](/data/macho-cows.png)
